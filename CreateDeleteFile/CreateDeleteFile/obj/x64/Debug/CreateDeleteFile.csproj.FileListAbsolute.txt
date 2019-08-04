@@ -1,0 +1,12 @@
+E:\A02SelfDemo\CreateDeleteFile\CreateDeleteFile\bin\x64\Debug\CreateDeleteFile.exe.config
+E:\A02SelfDemo\CreateDeleteFile\CreateDeleteFile\bin\x64\Debug\CreateDeleteFile.exe
+E:\A02SelfDemo\CreateDeleteFile\CreateDeleteFile\bin\x64\Debug\CreateDeleteFile.pdb
+E:\A02SelfDemo\CreateDeleteFile\CreateDeleteFile\obj\x64\Debug\CreateDeleteFile.csprojAssemblyReference.cache
+E:\A02SelfDemo\CreateDeleteFile\CreateDeleteFile\obj\x64\Debug\CreateDeleteFile.MainFrm.resources
+E:\A02SelfDemo\CreateDeleteFile\CreateDeleteFile\obj\x64\Debug\CreateDeleteFile.Properties.Resources.resources
+E:\A02SelfDemo\CreateDeleteFile\CreateDeleteFile\obj\x64\Debug\CreateDeleteFile.csproj.GenerateResource.cache
+E:\A02SelfDemo\CreateDeleteFile\CreateDeleteFile\obj\x64\Debug\CreateDeleteFile.csproj.CoreCompileInputs.cache
+E:\A02SelfDemo\CreateDeleteFile\CreateDeleteFile\obj\x64\Debug\CreateDeleteFile.exe
+E:\A02SelfDemo\CreateDeleteFile\CreateDeleteFile\obj\x64\Debug\CreateDeleteFile.pdb
+E:\A02SelfDemo\CreateDeleteFile\CreateDeleteFile\bin\x64\Debug\halcondotnet.dll
+E:\A02SelfDemo\CreateDeleteFile\CreateDeleteFile\obj\x64\Debug\CreateDeleteFile.csproj.CopyComplete
